@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ff1e00;
+    min-height: 100vh;
+}
+
+.menu {
+    display: flex;
+    padding: 10px 40px 30px;
+    height: 20px;
+    width: auto;
+    background-color: #59ce8f;
+    justify-content: center;
+}
+
+nav ul {
+    display: flex;
+    padding: 10px 40px 30px 30px;
+    margin: 0 auto;
+    gap: 20px;
+    justify-content: center;
+}
+
+nav ul li {
+    display: block;
+
+}
+
+nav ul a {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+
+}
+
+.coffee a img{
+    width: 150px;
+    height: 40px;
+}
+
+.menu ul li img {
+    height: 25px;
+    width: 30px;
+}
+
+.elm {
+    display: block;
+    width: calc(100% - 950px);
+    padding: 10px;
+    outline-style: auto;
+    outline-color: black;
+    margin: 10px;
+    float:left;
+    background-color: #e8f9fd;
+}
+
+.elm h3, h4, p {
+    text-align: justify;
+    width: fit-content;
+}
+
+h1 {
+    text-align: center;
+}
+
+.elm h2 {
+    background-color: #51e2f5;
+    font-size: 16px;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    overflow: auto;
+}
+
+.elm .img1 {
+    display: flex;
+    height: 200px;
+    width: 400px;
+    position: relative;
+}
+
+/* Footer */
+
+.footer {
+    position: sticky;
+    top: 100%;
+    width: 100%
+    
+}
+
+
+.footer ul {
+    background-color: #59ce8f;
+  
+}
+
+.footer ul li {
+    
+}
+
+.footer ul li img {
+    height: 40px;
+    width: 40px;
+}
