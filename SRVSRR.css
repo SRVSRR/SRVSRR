@@ -5,34 +5,32 @@
 }
 
 body {
-    /*background-color: #bbf7d0;     */
-    height: 100vh;
+    background-color: #67e8f9;
+    height: 100vh;;
 }
 
 .menu {
     display: flex;
-    width: 100vw;
-    background-color: #59ce8f;
-    justify-content: center;
+    width: 100%;
+    background-color: #0ea5e9;
     overflow: hidden;
-
 }
 
 
 nav ul {
     display: flex;
-    padding: 25px;
-    margin: 10px;
-    gap: 30px;
-    justify-content: left;
+    margin-left: 15px;
     width: 100%;
     align-items: center;
+    flex-direction: row; 
     height: 100%;
 }
 
 nav ul li {
     display: flex;
-
+    padding: 30px 15px;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 nav ul a {
@@ -46,7 +44,7 @@ nav ul a {
 .coffee a img{
     width: 150px;
     height: 40px;
-    
+    padding: 10px;
 }
 
 .menu ul li img {
@@ -63,7 +61,7 @@ nav ul a {
     border: 2px, solid, black;
     border-radius: 10px;
     margin: 10px;
-    background-color: #e8f9fd;
+    background-color: #bae6fd;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
@@ -71,6 +69,10 @@ nav ul a {
     text-align: justify;
     width: fit-content;
     padding: 10px;
+}
+
+p {
+    font-family: Arial;
 }
 
 h1 {
@@ -90,17 +92,23 @@ h1 {
 .elm .img1 {
     display: flex;
     height: 200px;
-    width: 400px;
+    width: 100%;
     position: relative;
 }
 
 button {
-    background-color: turquoise;
+    background-color: #0ea5e9;
     margin-left: 10px;
     margin-bottom: 10px;
     padding: 10px 20px;
     border-radius: 8px;
     outline: none;
+}
+
+button:hover, button:active {
+    background-color: white;
+    font-size: 120%;
+    cursor: pointer;
 }
 
 .art {
@@ -115,24 +123,45 @@ button {
 
 .footer {
     display: flex;
-    width: 100vw;
+    width: 100%;
     top: 100%;
-    justify-content: flex-start;
 }
 
-
 .footer ul {
-    background-color: #59ce8f;
+    background-color: #0ea5e9;
     display: flex;
     flex-direction: column;  
-    justify-content: left;
+    width: 100%;
+    
 }
 
 .footer ul li {
     display: flex;
+    padding: 5px 20px;
 }
 
 .footer ul li img {
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
 }
+
+/*Reviews*/
+
+.rdiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.reviews {
+    display: flex;
+    width: 80%;
+    height: 300px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #0d9488;
+    border: 5px, solid, red;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
