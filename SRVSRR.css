@@ -5,17 +5,21 @@
 }
 
 body {
-    background-color: #67e8f9;
+    background-color: #f5f5f5;
     height: 100vh;;
 }
 
 .menu {
     display: flex;
     width: 100%;
-    background-color: #0ea5e9;
+    background-color: #228b22;
     overflow: hidden;
 }
 
+.clogo {
+    height: 90px;
+    width: 90px;
+}
 
 nav ul {
     display: flex;
@@ -28,18 +32,23 @@ nav ul {
 
 nav ul li {
     display: flex;
-    padding: 30px 15px;
+    padding: 30px 20px;
     justify-content: space-evenly;
     align-items: center;
 }
 
 nav ul a {
-    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
     text-decoration: none;
-    color: white;
-    font-weight: 700;
-
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
 }
+
 
 .coffee a img{
     width: 150px;
@@ -61,7 +70,7 @@ nav ul a {
     border: 2px, solid, black;
     border-radius: 10px;
     margin: 10px;
-    background-color: #bae6fd;
+    background-color: #66cccc;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
@@ -197,7 +206,7 @@ button:hover, button:active {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: pink;
+    background-color: #ff69b4;
 }
 
 .reviews h2 {
@@ -212,6 +221,20 @@ overflow: hidden;
 }
 
 .reviews h4 {
-quotes: initial;
+    font-family: lora;
 font-weight: 500;}
 
+@media only screen and (min-device-width: 480px){
+
+    .elm {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: calc(100% - 950px);
+        border: 2px, solid, black;
+        border-radius: 10px;
+        margin: 10px;
+        background-color: #66cccc;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+}
