@@ -5,31 +5,32 @@
 }
 
 body {
-    background-color: #f5f5f5;
+    background-color: #cbd5e1;
     height: 100vh;;
 }
 
 .menu {
     display: flex;
     width: 100%;
-    background-color: #228b22;
+    background-color: #334155;
     overflow: hidden;
 }
 
 nav ul {
     display: flex;
-    margin-left: 15px;
     width: 100%;
     align-items: center;
+    justify-content: center;
     flex-direction: row; 
     height: 100%;
 }
 
-nav ul li {
+.menu ul li {
     display: flex;
-    padding: 30px 19px;
-    justify-content: space-evenly;
+    padding: 10px;
     align-items: center;
+    justify-content: center;
+    margin-left: 5px;
 }
 
 nav ul a {
@@ -40,22 +41,36 @@ nav ul a {
     justify-content: center;
     text-decoration: none;
     font-size: 20px;
-    color: black;
+    color: white;
     font-weight: 500;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
 }
 
+nav ul a:hover,a:active {
+    text-decoration: underline;
+    transition: 0.5s;
+}
 
+.socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 .coffee a img{
-    width: 150px;
-    height: 40px;
-    padding: 10px;
+    width: 27px;
+    height: 27px;
+    padding: 0px 10px;
 }
 
 .menu ul li img {
-    height: 25px;
-    width: 30px;
+    height: 20px;
+    width: 20px;
 
 }
+
 
 .elm {
     display: flex;
@@ -67,7 +82,7 @@ nav ul a {
     border-style: solid;
     border-width: 1px;
     margin: 10px;
-    background-color: #66cccc;
+    background-color: #64748b;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -142,7 +157,7 @@ button:hover, button:active {
 }
 
 .footer ul {
-    background-color: #0ea5e9;
+    background-color: #334155;
     display: flex;
     flex-direction: column;  
     width: 100%;
@@ -250,10 +265,6 @@ font-weight: 500;}
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-    }
-
-    nav ul li a {
-        
     }
     
     .coffee a img{
