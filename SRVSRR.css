@@ -270,10 +270,6 @@ font-family: 'sans-serif';
 overflow: hidden;
 }
 
-.reviews h4 {
-    font-family: lora;
-font-weight: 500;}
-
 .rb {
     background-color: #e2e8f0;
     margin-left: 10px;
@@ -397,11 +393,6 @@ font-weight: 500;}
     font-size: 10px;
     }
     
-    .reviews h4 {
-        font-family: lora;
-    font-weight: 500;
-    font-size: 12px;
-    }
 
     .rb {
         background-color: #e2e8f0;
