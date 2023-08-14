@@ -355,7 +355,7 @@ font-weight: 500;}
 
     .reviews {
         display: flex;
-        width: 80%;
+        width: 90%;
         height: 150px;
         align-content: flex-start;
         flex-direction: row;
@@ -419,6 +419,4 @@ font-weight: 500;}
         background-color: white;
         cursor: pointer;
     }
-}
-    
 }
