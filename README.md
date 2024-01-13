@@ -1,3 +1,15 @@
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Rohan Nandan from Fiji.🇫🇯<br><br>- 🔭 I’m currently in my first year of university studying Software Engineering.<br><br>- 📚 I'm currently learning JavaScript and C++.<br><br>- ⚡ In my free time I tend to watch films and explore new technologies.</p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rohan-n-3a83b5287/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -15,18 +27,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=srvsrr.srvsrr&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Rohan Nandan from Fiji.🇫🇯<br><br>- 🔭 I’m currently in my first year of university studying Software Engineering.<br>- 📚 I'm currently learning JavaScript and C++.<br>- ⚡ In my free time I tend to watch films and explore new technologies.</p>
 
 ###
 
@@ -56,14 +56,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srvsrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srvsrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=srvsrr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/srvsrr/srvsrr/output/snake.svg" alt="Snake animation" />
 
 ###
