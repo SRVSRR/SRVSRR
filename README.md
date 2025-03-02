@@ -2,7 +2,7 @@
 
 ## 👨‍💻  About Me
 
-<p align="left">I'm Rohan Nandan from Fiji.🇫🇯<br><br>- 🔭 I’m currently in my first year of university studying Software Engineering.<br><br>- 📚 I'm currently learning JavaScript and C++.<br><br>- ⚡ In my free time I tend to watch films and explore new technologies.</p>
+<p align="left">I'm Rohan Nandan from Fiji.🇫🇯<br><br>- 🔭 I’m currently in my second year of university studying Software Engineering.<br><br>- 📚 I'm currently learning JavaScript and C++.<br><br>- ⚡ In my free time I tend to watch films and explore new technologies.</p>
 
 ###
 <div align="center">
