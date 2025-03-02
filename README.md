@@ -5,7 +5,6 @@
 <p align="left">I'm Rohan Nandan from Fiji.🇫🇯<br><br>- 🔭 I’m currently in my first year of university studying Software Engineering.<br><br>- 📚 I'm currently learning JavaScript and C++.<br><br>- ⚡ In my free time I tend to watch films and explore new technologies.</p>
 
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rohan-n-3a83b5287/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -19,9 +18,9 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=srvsrr.srvsrr&"  />
+
+![Visits Badge](https://komarev.com/ghpvc/?username=srvsrr&style=for-the-badge&color=1469c3) 
 </div>
 
 ## 💻 Tech Stack:
