@@ -2,8 +2,7 @@
 
 ## 👨‍💻  About Me
 
-<p align="center">I'm Rohan Nandan from Fiji.🇫🇯. I’m currently in my third year of university studying Software Engineering.<br>
-<div align="center">
+<p align="center">I'm Rohan Nandan from Fiji.🇫🇯. I'm a third-year Software Engineering student at the University of the South Pacific and a Data Scientist/Engineer at Pacific Technologies. I specialise in modern web development and applied AI. <br><div align="center">
   <a href="https://www.linkedin.com/in/rohan-n-3a83b5287/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -16,9 +15,7 @@
 </div>
 
 ###
-<div align="center">
 
-![Visits Badge](https://komarev.com/ghpvc/?username=srvsrr&style=for-the-badge&color=1469c3) 
 </div>
 
 ## 💻 Tech Stack:
